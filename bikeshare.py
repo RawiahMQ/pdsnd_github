@@ -173,7 +173,7 @@ def user_stats(df, city):
         print(f'most common year: {common_year}')
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took %s seconds." % int((time.time() - start_time)))
     print('-'*40)
 
 
