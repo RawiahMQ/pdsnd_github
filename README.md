@@ -15,7 +15,7 @@ Description
 this project using python.3 created to analyze and study the usage of the US Bikeshare's services in three major cities: 'Chicago', 'Washington', 'NewYork city' with an interactive environment with the user using Numpy and Pandas libraries.
 
 
-This project contains
+
 bikeshare.py & README.md
 - chicago.csv
 - washington.csv
@@ -24,6 +24,6 @@ bikeshare.py & README.md
 
 Credits
 
-Stackoverflow
-python documentation
-Pandas documentation
+- Stackoverflow
+- python documentation
+- Pandas documentation
